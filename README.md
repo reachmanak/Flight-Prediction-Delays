@@ -1,6 +1,6 @@
 # Midterm_Project (Flight Prediction Delays)
 
-This project predict arrival delays of commercial flights using te data from air travel industry.
+This project predict arrival delays of commercial flights using the data from air travel industry.
 
 Often, there isn't much airlines can do to avoid the delays, therefore, they play an important role in both profits and loss of the airlines. 
 It is critical for airlines to estimate flight delays as accurate as possible because the results can be applied to both, 
